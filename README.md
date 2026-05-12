@@ -57,14 +57,6 @@ Alguns temas que gosto bastante:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheushenriquenv&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushenriquenv&layout=compact&theme=tokyonight)
-
----
-
 ## 📍 São Paulo, Brasil
 
 Sempre buscando aprender mais e transformar problemas operacionais em soluções com tecnologia.
